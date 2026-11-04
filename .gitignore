@@ -21,8 +21,10 @@ build/
 .DS_Store
 Thumbs.db
 
-# Data files (large)
+# Data files (large/sensitive)
 *.zip
+*.pdf
+*.PDF
 pdfData/
 
 # Output files
